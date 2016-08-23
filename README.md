@@ -1,5 +1,6 @@
 # RabbitMQ Objective-C and Swift client
-
+RabbitMQ iOS客户端代码  已经加入了必须的库 可以直接编译通过 
+例子代码稍后上传
 [![Build Status](https://travis-ci.org/rabbitmq/rabbitmq-objc-client.svg?branch=master)](https://travis-ci.org/rabbitmq/rabbitmq-objc-client)
 
 A RabbitMQ client, largely influenced by [Bunny](https://github.com/ruby-amqp/bunny).
