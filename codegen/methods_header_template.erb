@@ -1,0 +1,17 @@
+<%- if bits.any? -%>
+typedef NS_OPTIONS(NSUInteger, <%= class_name %>Options) {
+    <%= class_name + "NoOptions".ljust(max_bit_length) %> = 0,
+    <%- bits.each_with_index do |bit, index| -%>
+    /// <%= "@brief #{bit[:doc]}".strip %>
+    <%= class_name %><%= bit[:name] %> = 1 << <%= index %>,
+    <%- end -%>
+};
+
+<%- end -%>
+@interface <%= class_name %> : RMQValue <<%= protocols.join(", ") %>>
+<%- fields.each do |f| -%>
+@property (<%= f[:base_property_options].join(", ") %>, readonly) <%= f[:pointer_type] %><%= f[:name] %>;
+<%- end -%>
+<%= constructor + ";" if constructor %>
+@end
+

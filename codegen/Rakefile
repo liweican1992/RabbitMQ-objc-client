@@ -1,0 +1,59 @@
+require 'pathname'
+require 'nokogiri'
+require_relative 'generate_methods'
+require_relative 'generate_method_map'
+require_relative 'generate_basic_properties'
+
+code_dir = Pathname(File.absolute_path('../RMQClient', __dir__))
+tests_dir = Pathname(File.absolute_path('../RMQClientTests', __dir__))
+integration_tests_dir = Pathname(File.absolute_path('../RMQClientIntegrationTests', __dir__))
+this_dir = Pathname(__dir__)
+xml = Nokogiri::XML(File.open(this_dir.join("amqp0-9-1.extended.xml")))
+
+desc "Generate AMQP method code"
+task :generate_methods do
+  generator = GenerateMethods.new(xml)
+  code_dir.join('RMQMethods.h').write(generator.generate_header)
+  code_dir.join('RMQMethods.m').write(generator.generate_implementation)
+end
+
+desc "Generate mapping between [classID, methodID] to method classes"
+task :generate_method_map do
+  generator = GenerateMethodMap.new(xml)
+  code_dir.join('RMQMethodMap.h').write(generator.generate_header)
+  code_dir.join('RMQMethodMap.m').write(generator.generate_implementation)
+end
+
+desc "Generate basic properties"
+task :generate_basic_properties do
+  generator = GenerateBasicProperties.new(xml)
+  code_dir.join('RMQBasicProperties.h').write(generator.generate_header)
+  code_dir.join('RMQBasicProperties.m').write(generator.generate_implementation)
+end
+
+desc "Generate everything"
+multitask generate: [:generate_methods, :generate_method_map, :generate_basic_properties]
+
+desc "License and generate code"
+task license_code: :generate do
+  command = [this_dir.join("../bin/add-license"),
+             "swift,h,m",
+             "'//'",
+             this_dir.join("../license-header.txt"),
+             code_dir,
+             tests_dir,
+             integration_tests_dir].join(" ")
+  system(command)
+end
+
+desc "License and generate codegen"
+task license_codegen: :generate do
+  command = [this_dir.join("../bin/add-license"),
+             "rb",
+             "'#'",
+             this_dir.join("../license-header-ruby.txt"),
+             this_dir].join(" ")
+  system(command)
+end
+
+task default: [:license_code, :license_codegen]

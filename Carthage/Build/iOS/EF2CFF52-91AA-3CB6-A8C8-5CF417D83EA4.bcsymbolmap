@@ -1,0 +1,994 @@
+BCSymbolMap Version: 1.0
+-[JKVMutableValue JKV_isMutable]
+OBJC_CLASS_NAME_
+l_OBJC_METACLASS_RO_$_JKVMutableValue
+OBJC_METH_VAR_NAME_
+OBJC_METH_VAR_TYPE_
+l_OBJC_$_INSTANCE_METHODS_JKVMutableValue
+l_OBJC_CLASS_RO_$_JKVMutableValue
+OBJC_LABEL_CLASS_$
+Apple LLVM version 7.0.2 (clang-700.1.81)
+/Users/cc/Library/Developer/Xcode/DerivedData/ModuleCache/2IOMCGJ2DB34K/ObjectiveC-2CD0WTQVXITO7.pcm
+ObjectiveC
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/objc
+/Users/cc/Library/Developer/Xcode/DerivedData/ModuleCache/2IOMCGJ2DB34K/Foundation-A3SOD99KJ0S9.pcm
+Foundation
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework
+-[JKVMutableValue JKV_isMutable]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Public/JKVMutableValue.m
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue
+-[JKVNonZeroSetterVisitor initWithObject:]
+-[JKVNonZeroSetterVisitor propertyWasInt64:]
+-[JKVNonZeroSetterVisitor propertyWasInt32:]
+-[JKVNonZeroSetterVisitor propertyWasInt16:]
+-[JKVNonZeroSetterVisitor propertyWasFloat:]
+-[JKVNonZeroSetterVisitor propertyWasDouble:]
+-[JKVNonZeroSetterVisitor propertyWasBool:]
+-[JKVNonZeroSetterVisitor propertyWasObjCObject:]
+-[JKVNonZeroSetterVisitor propertyWasUnknownType:]
+-[JKVNonZeroSetterVisitor propertyWasCGPoint:]
+-[JKVNonZeroSetterVisitor propertyWasCGSize:]
+-[JKVNonZeroSetterVisitor propertyWasCGRect:]
+-[JKVNonZeroSetterVisitor propertyWasCGAffineTransform:]
+-[JKVNonZeroSetterVisitor propertyWasUIEdgeInsets:]
+-[JKVNonZeroSetterVisitor propertyWasUIOffset:]
+-[JKVNonZeroSetterVisitor object]
+-[JKVNonZeroSetterVisitor setObject:]
+-[JKVNonZeroSetterVisitor .cxx_destruct]
+OBJC_CLASSLIST_SUP_REFS_$_
+OBJC_SELECTOR_REFERENCES_
+OBJC_METH_VAR_NAME_1
+OBJC_SELECTOR_REFERENCES_2
+OBJC_METH_VAR_NAME_3
+OBJC_SELECTOR_REFERENCES_4
+OBJC_CLASSLIST_REFERENCES_$_
+OBJC_METH_VAR_NAME_5
+OBJC_SELECTOR_REFERENCES_6
+OBJC_METH_VAR_NAME_7
+OBJC_SELECTOR_REFERENCES_8
+OBJC_METH_VAR_NAME_9
+OBJC_SELECTOR_REFERENCES_10
+OBJC_METH_VAR_NAME_11
+OBJC_SELECTOR_REFERENCES_12
+OBJC_METH_VAR_NAME_13
+OBJC_SELECTOR_REFERENCES_14
+OBJC_CLASSLIST_REFERENCES_$_15
+OBJC_METH_VAR_NAME_16
+OBJC_SELECTOR_REFERENCES_17
+OBJC_METH_VAR_NAME_18
+OBJC_SELECTOR_REFERENCES_19
+OBJC_METH_VAR_NAME_20
+OBJC_SELECTOR_REFERENCES_21
+OBJC_CLASSLIST_REFERENCES_$_22
+.str
+_unnamed_cfstring_
+.str23
+_unnamed_cfstring_24
+OBJC_METH_VAR_NAME_25
+OBJC_SELECTOR_REFERENCES_26
+OBJC_METH_VAR_NAME_27
+OBJC_SELECTOR_REFERENCES_28
+OBJC_CLASSLIST_REFERENCES_$_29
+OBJC_METH_VAR_NAME_30
+OBJC_SELECTOR_REFERENCES_31
+OBJC_METH_VAR_NAME_32
+OBJC_SELECTOR_REFERENCES_33
+OBJC_METH_VAR_NAME_34
+OBJC_SELECTOR_REFERENCES_35
+OBJC_METH_VAR_NAME_36
+OBJC_SELECTOR_REFERENCES_37
+OBJC_METH_VAR_NAME_38
+OBJC_SELECTOR_REFERENCES_39
+OBJC_METH_VAR_NAME_40
+OBJC_SELECTOR_REFERENCES_41
+OBJC_IVAR_$_JKVNonZeroSetterVisitor._object
+OBJC_METH_VAR_NAME_42
+OBJC_METH_VAR_TYPE_43
+OBJC_METH_VAR_NAME_44
+OBJC_METH_VAR_NAME_45
+OBJC_METH_VAR_NAME_46
+OBJC_METH_VAR_NAME_47
+OBJC_METH_VAR_NAME_48
+OBJC_METH_VAR_NAME_49
+OBJC_METH_VAR_NAME_50
+OBJC_METH_VAR_NAME_51
+OBJC_METH_VAR_NAME_52
+OBJC_METH_VAR_NAME_53
+OBJC_METH_VAR_NAME_54
+OBJC_METH_VAR_NAME_55
+OBJC_METH_VAR_NAME_56
+OBJC_METH_VAR_NAME_57
+OBJC_METH_VAR_NAME_58
+OBJC_CLASS_NAME_59
+OBJC_METH_VAR_TYPE_60
+OBJC_METH_VAR_TYPE_61
+OBJC_METH_VAR_NAME_62
+OBJC_METH_VAR_TYPE_63
+OBJC_METH_VAR_NAME_64
+OBJC_METH_VAR_TYPE_65
+OBJC_METH_VAR_NAME_66
+OBJC_METH_VAR_TYPE_67
+OBJC_METH_VAR_NAME_68
+OBJC_METH_VAR_TYPE_69
+OBJC_METH_VAR_NAME_70
+OBJC_METH_VAR_TYPE_71
+OBJC_METH_VAR_NAME_72
+OBJC_METH_VAR_TYPE_73
+OBJC_METH_VAR_NAME_74
+OBJC_METH_VAR_NAME_75
+OBJC_METH_VAR_TYPE_76
+OBJC_METH_VAR_NAME_77
+OBJC_METH_VAR_TYPE_78
+OBJC_METH_VAR_NAME_79
+OBJC_METH_VAR_NAME_80
+OBJC_METH_VAR_TYPE_81
+OBJC_METH_VAR_NAME_82
+OBJC_METH_VAR_NAME_83
+OBJC_METH_VAR_TYPE_84
+OBJC_METH_VAR_NAME_85
+OBJC_METH_VAR_TYPE_86
+OBJC_METH_VAR_NAME_87
+OBJC_METH_VAR_NAME_88
+OBJC_METH_VAR_NAME_89
+OBJC_METH_VAR_TYPE_90
+OBJC_METH_VAR_NAME_91
+OBJC_CLASS_NAME_92
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSObject
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_NSObject
+OBJC_PROP_NAME_ATTR_
+OBJC_PROP_NAME_ATTR_93
+OBJC_PROP_NAME_ATTR_94
+OBJC_PROP_NAME_ATTR_95
+OBJC_PROP_NAME_ATTR_96
+OBJC_PROP_NAME_ATTR_97
+OBJC_PROP_NAME_ATTR_98
+l_OBJC_$_PROP_LIST_NSObject
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSObject
+l_OBJC_PROTOCOL_$_NSObject
+l_OBJC_LABEL_PROTOCOL_$_NSObject
+l_OBJC_$_PROTOCOL_REFS_JKVPropertyEncodingTypeVisitor
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_JKVPropertyEncodingTypeVisitor
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_OPT_JKVPropertyEncodingTypeVisitor
+l_OBJC_$_PROTOCOL_METHOD_TYPES_JKVPropertyEncodingTypeVisitor
+l_OBJC_PROTOCOL_$_JKVPropertyEncodingTypeVisitor
+l_OBJC_LABEL_PROTOCOL_$_JKVPropertyEncodingTypeVisitor
+l_OBJC_CLASS_PROTOCOLS_$_JKVNonZeroSetterVisitor
+l_OBJC_METACLASS_RO_$_JKVNonZeroSetterVisitor
+OBJC_CLASS_NAME_99
+OBJC_METH_VAR_NAME_100
+OBJC_METH_VAR_TYPE_101
+OBJC_METH_VAR_NAME_102
+OBJC_METH_VAR_NAME_103
+OBJC_METH_VAR_TYPE_104
+l_OBJC_$_INSTANCE_METHODS_JKVNonZeroSetterVisitor
+OBJC_METH_VAR_NAME_105
+OBJC_METH_VAR_TYPE_106
+l_OBJC_$_INSTANCE_VARIABLES_JKVNonZeroSetterVisitor
+OBJC_PROP_NAME_ATTR_107
+OBJC_PROP_NAME_ATTR_108
+l_OBJC_$_PROP_LIST_JKVNonZeroSetterVisitor
+l_OBJC_CLASS_RO_$_JKVNonZeroSetterVisitor
+/Users/cc/Library/Developer/Xcode/DerivedData/ModuleCache/2IOMCGJ2DB34K/CoreGraphics-1YQ59ILDR3NYI.pcm
+CoreGraphics
+/Users/cc/Library/Developer/Xcode/DerivedData/ModuleCache/2IOMCGJ2DB34K/UIKit-2LM3EQU7VVY4O.pcm
+UIKit
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework
+UIOffsetMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIGeometry.h
+UIEdgeInsetsMake
+__CGAffineTransformMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGAffineTransform.h
+CGRectMake
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/CoreGraphics.framework/Headers/CGGeometry.h
+CGSizeMake
+CGPointMake
+-[JKVNonZeroSetterVisitor .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Private/JKVNonZeroSetterVisitor.m
+-[JKVNonZeroSetterVisitor setObject:]
+-[JKVNonZeroSetterVisitor object]
+-[JKVNonZeroSetterVisitor propertyWasUIOffset:]
+-[JKVNonZeroSetterVisitor propertyWasUIEdgeInsets:]
+-[JKVNonZeroSetterVisitor propertyWasCGAffineTransform:]
+-[JKVNonZeroSetterVisitor propertyWasCGRect:]
+-[JKVNonZeroSetterVisitor propertyWasCGSize:]
+-[JKVNonZeroSetterVisitor propertyWasCGPoint:]
+-[JKVNonZeroSetterVisitor propertyWasUnknownType:]
+-[JKVNonZeroSetterVisitor propertyWasObjCObject:]
+-[JKVNonZeroSetterVisitor propertyWasBool:]
+-[JKVNonZeroSetterVisitor propertyWasDouble:]
+-[JKVNonZeroSetterVisitor propertyWasFloat:]
+-[JKVNonZeroSetterVisitor propertyWasInt16:]
+-[JKVNonZeroSetterVisitor propertyWasInt32:]
+-[JKVNonZeroSetterVisitor propertyWasInt64:]
+-[JKVNonZeroSetterVisitor initWithObject:]
+-[JKVValue initFromJKVValue]
+-[JKVValue initWithCoder:]
++[JKVValue supportsSecureCoding]
+-[JKVValue encodeWithCoder:]
+-[JKVValue copyWithZone:]
+-[JKVValue mutableCopyWithZone:]
+-[JKVValue description]
+-[JKVValue debugDescription]
+-[JKVValue isEqual:]
+-[JKVValue hash]
+-[JKVValue differenceToObject:]
+-[JKVValue JKV_isMutable]
+-[JKVValue JKV_mutableClass]
+-[JKVValue JKV_immutableClass]
+-[JKVValue JKV_propertyNamesForIdentity]
+-[JKVValue JKV_propertyNamesToAssignCopy]
+-[JKVValue JKV_cachedPropertyNamesForIdentity]
+-[JKVValue JKV_cachedPropertyNamesToAssignCopy]
+-[JKVValue JKV_inspector]
+-[JKVValue .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_13
+OBJC_METH_VAR_NAME_14
+OBJC_SELECTOR_REFERENCES_15
+OBJC_METH_VAR_NAME_22
+OBJC_SELECTOR_REFERENCES_23
+OBJC_METH_VAR_NAME_24
+OBJC_SELECTOR_REFERENCES_25
+OBJC_METH_VAR_NAME_26
+OBJC_SELECTOR_REFERENCES_27
+OBJC_METH_VAR_NAME_28
+OBJC_SELECTOR_REFERENCES_29
+OBJC_CLASSLIST_REFERENCES_$_32
+OBJC_METH_VAR_NAME_33
+OBJC_SELECTOR_REFERENCES_34
+OBJC_METH_VAR_NAME_35
+OBJC_SELECTOR_REFERENCES_36
+OBJC_METH_VAR_NAME_37
+OBJC_SELECTOR_REFERENCES_38
+OBJC_CLASSLIST_REFERENCES_$_39
+OBJC_SELECTOR_REFERENCES_43
+OBJC_SELECTOR_REFERENCES_45
+OBJC_CLASSLIST_REFERENCES_$_46
+OBJC_SELECTOR_REFERENCES_48
+OBJC_SELECTOR_REFERENCES_50
+OBJC_SELECTOR_REFERENCES_52
+OBJC_SELECTOR_REFERENCES_54
+OBJC_CLASSLIST_REFERENCES_$_55
+OBJC_SELECTOR_REFERENCES_57
+OBJC_SELECTOR_REFERENCES_59
+OBJC_METH_VAR_NAME_60
+OBJC_SELECTOR_REFERENCES_61
+OBJC_IVAR_$_JKVValue._JKV_propertiesForIdentity
+OBJC_SELECTOR_REFERENCES_63
+OBJC_CLASSLIST_REFERENCES_$_64
+OBJC_METH_VAR_NAME_65
+OBJC_SELECTOR_REFERENCES_66
+OBJC_CLASSLIST_REFERENCES_$_67
+.str68
+_unnamed_cfstring_69
+OBJC_SELECTOR_REFERENCES_71
+OBJC_SELECTOR_REFERENCES_73
+.str74
+_unnamed_cfstring_75
+OBJC_IVAR_$_JKVValue._JKV_propertiesToAssignCopy
+OBJC_METH_VAR_NAME_76
+OBJC_SELECTOR_REFERENCES_77
+OBJC_IVAR_$_JKVValue._JKV_inspector
+OBJC_CLASSLIST_REFERENCES_$_78
+OBJC_SELECTOR_REFERENCES_80
+OBJC_METH_VAR_NAME_81
+l_OBJC_$_CLASS_METHODS_JKVValue
+OBJC_METH_VAR_TYPE_83
+OBJC_CLASS_NAME_84
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSMutableCopying
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSMutableCopying
+l_OBJC_PROTOCOL_$_NSMutableCopying
+l_OBJC_LABEL_PROTOCOL_$_NSMutableCopying
+OBJC_CLASS_NAME_86
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCopying
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCopying
+l_OBJC_PROTOCOL_$_NSCopying
+l_OBJC_LABEL_PROTOCOL_$_NSCopying
+OBJC_CLASS_NAME_87
+OBJC_METH_VAR_TYPE_89
+OBJC_METH_VAR_TYPE_92
+OBJC_METH_VAR_TYPE_93
+OBJC_CLASS_NAME_94
+l_OBJC_$_PROTOCOL_INSTANCE_METHODS_NSCoding
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSCoding
+l_OBJC_PROTOCOL_$_NSCoding
+l_OBJC_LABEL_PROTOCOL_$_NSCoding
+l_OBJC_$_PROTOCOL_REFS_NSSecureCoding
+l_OBJC_$_PROTOCOL_CLASS_METHODS_NSSecureCoding
+l_OBJC_$_PROTOCOL_METHOD_TYPES_NSSecureCoding
+l_OBJC_PROTOCOL_$_NSSecureCoding
+l_OBJC_LABEL_PROTOCOL_$_NSSecureCoding
+l_OBJC_CLASS_PROTOCOLS_$_JKVValue
+l_OBJC_METACLASS_RO_$_JKVValue
+OBJC_CLASS_NAME_95
+OBJC_METH_VAR_TYPE_96
+OBJC_METH_VAR_NAME_97
+OBJC_METH_VAR_TYPE_98
+OBJC_METH_VAR_NAME_99
+OBJC_METH_VAR_TYPE_100
+OBJC_METH_VAR_NAME_101
+OBJC_METH_VAR_TYPE_102
+l_OBJC_$_INSTANCE_METHODS_JKVValue
+OBJC_METH_VAR_NAME_107
+OBJC_METH_VAR_NAME_108
+OBJC_METH_VAR_TYPE_109
+l_OBJC_$_INSTANCE_VARIABLES_JKVValue
+l_OBJC_CLASS_RO_$_JKVValue
+-[JKVValue .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Public/JKVValueImpl.m
+-[JKVValue JKV_inspector]
+-[JKVValue JKV_cachedPropertyNamesToAssignCopy]
+-[JKVValue JKV_cachedPropertyNamesForIdentity]
+-[JKVValue JKV_propertyNamesToAssignCopy]
+-[JKVValue JKV_propertyNamesForIdentity]
+-[JKVValue JKV_immutableClass]
+-[JKVValue JKV_mutableClass]
+-[JKVValue JKV_isMutable]
+-[JKVValue differenceToObject:]
+-[JKVValue hash]
+-[JKVValue isEqual:]
+-[JKVValue debugDescription]
+-[JKVValue description]
+-[JKVValue mutableCopyWithZone:]
+-[JKVValue copyWithZone:]
+-[JKVValue encodeWithCoder:]
++[JKVValue supportsSecureCoding]
+-[JKVValue initWithCoder:]
+-[JKVValue initFromJKVValue]
+-[JKVProperty initWithName:attributes:]
+-[JKVProperty description]
+-[JKVProperty encodingType]
+-[JKVProperty ivarName]
+-[JKVProperty encodingTypeObjCDeclaration]
+-[JKVProperty classType]
+-[JKVProperty isEncodingType:]
+-[JKVProperty isObjCObjectType]
+-[JKVProperty isWeak]
+-[JKVProperty isNonAtomic]
+-[JKVProperty isReadOnly]
+-[JKVProperty visitEncodingType:]
+-[JKVProperty name]
+-[JKVProperty setName:]
+-[JKVProperty attributes]
+-[JKVProperty setAttributes:]
+-[JKVProperty .cxx_destruct]
+.str13
+_unnamed_cfstring_14
+OBJC_METH_VAR_NAME_15
+OBJC_SELECTOR_REFERENCES_16
+.str17
+_unnamed_cfstring_18
+OBJC_METH_VAR_NAME_19
+OBJC_SELECTOR_REFERENCES_20
+OBJC_METH_VAR_NAME_21
+OBJC_SELECTOR_REFERENCES_22
+OBJC_METH_VAR_NAME_23
+OBJC_SELECTOR_REFERENCES_24
+.str29
+_unnamed_cfstring_30
+OBJC_METH_VAR_NAME_31
+OBJC_SELECTOR_REFERENCES_32
+.str35
+_unnamed_cfstring_36
+OBJC_METH_VAR_NAME_39
+OBJC_SELECTOR_REFERENCES_40
+OBJC_METH_VAR_NAME_41
+OBJC_SELECTOR_REFERENCES_42
+.str43
+_unnamed_cfstring_44
+.str45
+_unnamed_cfstring_46
+.str47
+_unnamed_cfstring_48
+.str49
+OBJC_SELECTOR_REFERENCES_51
+OBJC_SELECTOR_REFERENCES_53
+.str54
+OBJC_SELECTOR_REFERENCES_56
+.str57
+.str60
+OBJC_METH_VAR_NAME_61
+OBJC_SELECTOR_REFERENCES_62
+.str63
+OBJC_SELECTOR_REFERENCES_65
+.str66
+OBJC_METH_VAR_NAME_67
+OBJC_SELECTOR_REFERENCES_68
+.str69
+.str72
+OBJC_METH_VAR_NAME_73
+OBJC_SELECTOR_REFERENCES_74
+.str75
+.str78
+.str81
+OBJC_SELECTOR_REFERENCES_83
+OBJC_METH_VAR_NAME_84
+OBJC_SELECTOR_REFERENCES_85
+OBJC_METH_VAR_NAME_86
+OBJC_SELECTOR_REFERENCES_87
+OBJC_SELECTOR_REFERENCES_89
+OBJC_METH_VAR_NAME_90
+OBJC_SELECTOR_REFERENCES_91
+OBJC_IVAR_$_JKVProperty._name
+OBJC_IVAR_$_JKVProperty._attributes
+l_OBJC_METACLASS_RO_$_JKVProperty
+OBJC_METH_VAR_NAME_93
+OBJC_METH_VAR_NAME_94
+OBJC_METH_VAR_TYPE_95
+OBJC_METH_VAR_NAME_96
+OBJC_METH_VAR_TYPE_99
+OBJC_METH_VAR_NAME_104
+OBJC_METH_VAR_TYPE_105
+OBJC_METH_VAR_NAME_106
+OBJC_METH_VAR_TYPE_107
+l_OBJC_$_INSTANCE_METHODS_JKVProperty
+OBJC_METH_VAR_NAME_110
+OBJC_METH_VAR_TYPE_111
+l_OBJC_$_INSTANCE_VARIABLES_JKVProperty
+OBJC_PROP_NAME_ATTR_112
+OBJC_PROP_NAME_ATTR_113
+OBJC_PROP_NAME_ATTR_114
+l_OBJC_$_PROP_LIST_JKVProperty
+l_OBJC_CLASS_RO_$_JKVProperty
+NSMakeRange
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/NSRange.h
+-[JKVProperty .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Private/JKVProperty.m
+-[JKVProperty setAttributes:]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Private/JKVProperty.h
+-[JKVProperty attributes]
+-[JKVProperty setName:]
+-[JKVProperty name]
+-[JKVProperty visitEncodingType:]
+-[JKVProperty isReadOnly]
+-[JKVProperty isNonAtomic]
+-[JKVProperty isWeak]
+-[JKVProperty isObjCObjectType]
+-[JKVProperty isEncodingType:]
+-[JKVProperty classType]
+-[JKVProperty encodingTypeObjCDeclaration]
+-[JKVProperty ivarName]
+-[JKVProperty encodingType]
+-[JKVProperty description]
+-[JKVProperty initWithName:attributes:]
+-[JKVKeyedDecoderVisitor initWithCoder:forObject:]
+-[JKVKeyedDecoderVisitor propertyWasInt64:]
+-[JKVKeyedDecoderVisitor propertyWasInt32:]
+-[JKVKeyedDecoderVisitor propertyWasInt16:]
+-[JKVKeyedDecoderVisitor propertyWasFloat:]
+-[JKVKeyedDecoderVisitor propertyWasDouble:]
+-[JKVKeyedDecoderVisitor propertyWasBool:]
+-[JKVKeyedDecoderVisitor propertyWasObjCObject:]
+-[JKVKeyedDecoderVisitor propertyWasUnknownType:]
+-[JKVKeyedDecoderVisitor propertyWasCGPoint:]
+-[JKVKeyedDecoderVisitor propertyWasCGSize:]
+-[JKVKeyedDecoderVisitor propertyWasCGRect:]
+-[JKVKeyedDecoderVisitor propertyWasCGAffineTransform:]
+-[JKVKeyedDecoderVisitor propertyWasUIEdgeInsets:]
+-[JKVKeyedDecoderVisitor propertyWasUIOffset:]
+-[JKVKeyedDecoderVisitor coder]
+-[JKVKeyedDecoderVisitor setCoder:]
+-[JKVKeyedDecoderVisitor target]
+-[JKVKeyedDecoderVisitor setTarget:]
+-[JKVKeyedDecoderVisitor .cxx_destruct]
+OBJC_CLASSLIST_REFERENCES_$_11
+OBJC_METH_VAR_NAME_12
+OBJC_SELECTOR_REFERENCES_13
+.str46
+_unnamed_cfstring_47
+.str48
+_unnamed_cfstring_49
+.str50
+_unnamed_cfstring_51
+OBJC_CLASSLIST_REFERENCES_$_54
+OBJC_SELECTOR_REFERENCES_58
+OBJC_METH_VAR_NAME_59
+OBJC_SELECTOR_REFERENCES_60
+OBJC_METH_VAR_NAME_63
+OBJC_SELECTOR_REFERENCES_64
+OBJC_METH_VAR_NAME_69
+OBJC_SELECTOR_REFERENCES_70
+OBJC_METH_VAR_NAME_71
+OBJC_SELECTOR_REFERENCES_72
+OBJC_SELECTOR_REFERENCES_76
+OBJC_SELECTOR_REFERENCES_78
+OBJC_IVAR_$_JKVKeyedDecoderVisitor._coder
+OBJC_IVAR_$_JKVKeyedDecoderVisitor._target
+OBJC_METH_VAR_TYPE_80
+OBJC_METH_VAR_NAME_92
+OBJC_METH_VAR_NAME_95
+OBJC_CLASS_NAME_96
+OBJC_METH_VAR_TYPE_108
+OBJC_METH_VAR_NAME_109
+OBJC_METH_VAR_TYPE_110
+OBJC_METH_VAR_NAME_112
+OBJC_METH_VAR_NAME_113
+OBJC_METH_VAR_TYPE_114
+OBJC_METH_VAR_NAME_115
+OBJC_METH_VAR_TYPE_116
+OBJC_METH_VAR_NAME_117
+OBJC_METH_VAR_NAME_118
+OBJC_METH_VAR_TYPE_119
+OBJC_METH_VAR_NAME_120
+OBJC_METH_VAR_NAME_121
+OBJC_METH_VAR_TYPE_122
+OBJC_METH_VAR_NAME_123
+OBJC_METH_VAR_TYPE_124
+OBJC_METH_VAR_NAME_125
+OBJC_METH_VAR_NAME_126
+OBJC_METH_VAR_NAME_127
+OBJC_METH_VAR_TYPE_128
+OBJC_METH_VAR_NAME_129
+OBJC_CLASS_NAME_130
+OBJC_PROP_NAME_ATTR_131
+OBJC_PROP_NAME_ATTR_132
+OBJC_PROP_NAME_ATTR_133
+OBJC_PROP_NAME_ATTR_134
+OBJC_PROP_NAME_ATTR_135
+OBJC_PROP_NAME_ATTR_136
+l_OBJC_CLASS_PROTOCOLS_$_JKVKeyedDecoderVisitor
+l_OBJC_METACLASS_RO_$_JKVKeyedDecoderVisitor
+OBJC_CLASS_NAME_137
+OBJC_METH_VAR_NAME_138
+OBJC_METH_VAR_TYPE_139
+OBJC_METH_VAR_NAME_140
+OBJC_METH_VAR_NAME_141
+OBJC_METH_VAR_TYPE_142
+l_OBJC_$_INSTANCE_METHODS_JKVKeyedDecoderVisitor
+OBJC_METH_VAR_NAME_143
+OBJC_METH_VAR_TYPE_144
+OBJC_METH_VAR_NAME_145
+OBJC_METH_VAR_TYPE_146
+l_OBJC_$_INSTANCE_VARIABLES_JKVKeyedDecoderVisitor
+OBJC_PROP_NAME_ATTR_147
+OBJC_PROP_NAME_ATTR_148
+OBJC_PROP_NAME_ATTR_149
+OBJC_PROP_NAME_ATTR_150
+l_OBJC_$_PROP_LIST_JKVKeyedDecoderVisitor
+l_OBJC_CLASS_RO_$_JKVKeyedDecoderVisitor
+-[JKVKeyedDecoderVisitor .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Private/JKVKeyedDecoderVisitor.m
+-[JKVKeyedDecoderVisitor setTarget:]
+-[JKVKeyedDecoderVisitor target]
+-[JKVKeyedDecoderVisitor setCoder:]
+-[JKVKeyedDecoderVisitor coder]
+-[JKVKeyedDecoderVisitor propertyWasUIOffset:]
+-[JKVKeyedDecoderVisitor propertyWasUIEdgeInsets:]
+-[JKVKeyedDecoderVisitor propertyWasCGAffineTransform:]
+-[JKVKeyedDecoderVisitor propertyWasCGRect:]
+-[JKVKeyedDecoderVisitor propertyWasCGSize:]
+-[JKVKeyedDecoderVisitor propertyWasCGPoint:]
+-[JKVKeyedDecoderVisitor propertyWasUnknownType:]
+-[JKVKeyedDecoderVisitor propertyWasObjCObject:]
+-[JKVKeyedDecoderVisitor propertyWasBool:]
+-[JKVKeyedDecoderVisitor propertyWasDouble:]
+-[JKVKeyedDecoderVisitor propertyWasFloat:]
+-[JKVKeyedDecoderVisitor propertyWasInt16:]
+-[JKVKeyedDecoderVisitor propertyWasInt32:]
+-[JKVKeyedDecoderVisitor propertyWasInt64:]
+-[JKVKeyedDecoderVisitor initWithCoder:forObject:]
++[JKVClassInspector clearInstanceCache]
++[JKVClassInspector initialize]
++[JKVClassInspector inspectorForClass:]
+-[JKVClassInspector initWithClass:]
+-[JKVClassInspector isObject:equalToObject:byPropertyNames:]
+-[JKVClassInspector hashObject:byPropertyNames:visitedObjects:]
+-[JKVClassInspector isObject:equalToObject:withPropertyNames:]
+-[JKVClassInspector hashObject:byPropertyNames:]
+-[JKVClassInspector copyToObject:fromObject:inZone:propertyNames:weakPropertyNames:]
+-[JKVClassInspector nonWeakProperties]
+-[JKVClassInspector weakProperties]
+-[JKVClassInspector properties]
+-[JKVClassInspector _propertiesBackedByInstanceVariables]
+-[JKVClassInspector propertiesBackedByInstanceVariables]
+-[JKVClassInspector weakPropertyNames]
+-[JKVClassInspector nonWeakPropertyNames]
+-[JKVClassInspector setProperties:]
+-[JKVClassInspector setPropertiesBackedByInstanceVariables:]
+-[JKVClassInspector setWeakProperties:]
+-[JKVClassInspector setNonWeakProperties:]
+-[JKVClassInspector setWeakPropertyNames:]
+-[JKVClassInspector setNonWeakPropertyNames:]
+-[JKVClassInspector aClass]
+-[JKVClassInspector setAClass:]
+-[JKVClassInspector .cxx_destruct]
+inspectors__
+OBJC_CLASSLIST_SUP_REFS_$_13
+OBJC_CLASSLIST_REFERENCES_$_35
+OBJC_CLASSLIST_REFERENCES_$_38
+l_OBJC_PROTOCOL_REFERENCE_$_NSMutableCopying
+OBJC_SELECTOR_REFERENCES_44
+OBJC_SELECTOR_REFERENCES_46
+OBJC_IVAR_$_JKVClassInspector._nonWeakProperties
+OBJC_CLASSLIST_REFERENCES_$_47
+OBJC_SELECTOR_REFERENCES_49
+OBJC_IVAR_$_JKVClassInspector._weakProperties
+_unnamed_cfstring_55
+OBJC_IVAR_$_JKVClassInspector._properties
+OBJC_CLASSLIST_REFERENCES_$_58
+OBJC_CLASSLIST_REFERENCES_$_65
+OBJC_SELECTOR_REFERENCES_67
+OBJC_SELECTOR_REFERENCES_69
+OBJC_SELECTOR_REFERENCES_75
+OBJC_METH_VAR_NAME_78
+OBJC_SELECTOR_REFERENCES_79
+OBJC_IVAR_$_JKVClassInspector._propertiesBackedByInstanceVariables
+OBJC_SELECTOR_REFERENCES_81
+OBJC_CLASSLIST_REFERENCES_$_82
+.str83
+_unnamed_cfstring_84
+OBJC_SELECTOR_REFERENCES_86
+OBJC_CLASSLIST_REFERENCES_$_87
+OBJC_CLASSLIST_REFERENCES_$_88
+OBJC_SELECTOR_REFERENCES_90
+OBJC_SELECTOR_REFERENCES_92
+OBJC_SELECTOR_REFERENCES_94
+OBJC_SELECTOR_REFERENCES_96
+OBJC_SELECTOR_REFERENCES_98
+OBJC_IVAR_$_JKVClassInspector._weakPropertyNames
+OBJC_SELECTOR_REFERENCES_100
+OBJC_IVAR_$_JKVClassInspector._nonWeakPropertyNames
+OBJC_SELECTOR_REFERENCES_102
+OBJC_IVAR_$_JKVClassInspector._aClass
+OBJC_CLASS_NAME_103
+l_OBJC_$_CLASS_METHODS_JKVClassInspector
+l_OBJC_METACLASS_RO_$_JKVClassInspector
+OBJC_CLASS_NAME_106
+OBJC_METH_VAR_NAME_111
+OBJC_METH_VAR_TYPE_112
+OBJC_METH_VAR_TYPE_115
+OBJC_METH_VAR_NAME_116
+OBJC_METH_VAR_NAME_119
+OBJC_METH_VAR_TYPE_120
+OBJC_METH_VAR_NAME_122
+OBJC_METH_VAR_NAME_124
+OBJC_METH_VAR_TYPE_126
+OBJC_METH_VAR_TYPE_127
+l_OBJC_$_INSTANCE_METHODS_JKVClassInspector
+OBJC_METH_VAR_NAME_128
+OBJC_METH_VAR_TYPE_129
+OBJC_METH_VAR_NAME_130
+OBJC_METH_VAR_NAME_131
+OBJC_METH_VAR_NAME_132
+OBJC_METH_VAR_NAME_133
+OBJC_METH_VAR_NAME_134
+OBJC_METH_VAR_TYPE_135
+l_OBJC_$_INSTANCE_VARIABLES_JKVClassInspector
+OBJC_PROP_NAME_ATTR_137
+OBJC_PROP_NAME_ATTR_138
+OBJC_PROP_NAME_ATTR_139
+OBJC_PROP_NAME_ATTR_140
+OBJC_PROP_NAME_ATTR_141
+OBJC_PROP_NAME_ATTR_142
+OBJC_PROP_NAME_ATTR_143
+OBJC_PROP_NAME_ATTR_144
+OBJC_PROP_NAME_ATTR_145
+OBJC_PROP_NAME_ATTR_146
+l_OBJC_$_PROP_LIST_JKVClassInspector
+l_OBJC_CLASS_RO_$_JKVClassInspector
+-[JKVClassInspector .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Private/JKVClassInspector.m
+-[JKVClassInspector setAClass:]
+-[JKVClassInspector aClass]
+-[JKVClassInspector setNonWeakPropertyNames:]
+-[JKVClassInspector setWeakPropertyNames:]
+-[JKVClassInspector setNonWeakProperties:]
+-[JKVClassInspector setWeakProperties:]
+-[JKVClassInspector setPropertiesBackedByInstanceVariables:]
+-[JKVClassInspector setProperties:]
+-[JKVClassInspector nonWeakPropertyNames]
+-[JKVClassInspector weakPropertyNames]
+-[JKVClassInspector propertiesBackedByInstanceVariables]
+-[JKVClassInspector _propertiesBackedByInstanceVariables]
+-[JKVClassInspector properties]
+-[JKVClassInspector weakProperties]
+-[JKVClassInspector nonWeakProperties]
+-[JKVClassInspector copyToObject:fromObject:inZone:propertyNames:weakPropertyNames:]
+-[JKVClassInspector hashObject:byPropertyNames:]
+-[JKVClassInspector isObject:equalToObject:withPropertyNames:]
+-[JKVClassInspector hashObject:byPropertyNames:visitedObjects:]
+-[JKVClassInspector isObject:equalToObject:byPropertyNames:]
+-[JKVClassInspector initWithClass:]
++[JKVClassInspector inspectorForClass:]
++[JKVClassInspector initialize]
++[JKVClassInspector clearInstanceCache]
+-[JKVKeyedEncoderVisitor initWithCoder:forObject:]
+-[JKVKeyedEncoderVisitor propertyWasInt64:]
+-[JKVKeyedEncoderVisitor propertyWasInt32:]
+-[JKVKeyedEncoderVisitor propertyWasInt16:]
+-[JKVKeyedEncoderVisitor propertyWasFloat:]
+-[JKVKeyedEncoderVisitor propertyWasDouble:]
+-[JKVKeyedEncoderVisitor propertyWasBool:]
+-[JKVKeyedEncoderVisitor propertyWasObjCObject:]
+-[JKVKeyedEncoderVisitor propertyWasUnknownType:]
+-[JKVKeyedEncoderVisitor propertyWasCGPoint:]
+-[JKVKeyedEncoderVisitor propertyWasCGSize:]
+-[JKVKeyedEncoderVisitor propertyWasCGRect:]
+-[JKVKeyedEncoderVisitor propertyWasCGAffineTransform:]
+-[JKVKeyedEncoderVisitor propertyWasUIEdgeInsets:]
+-[JKVKeyedEncoderVisitor propertyWasUIOffset:]
+-[JKVKeyedEncoderVisitor coder]
+-[JKVKeyedEncoderVisitor setCoder:]
+-[JKVKeyedEncoderVisitor target]
+-[JKVKeyedEncoderVisitor setTarget:]
+-[JKVKeyedEncoderVisitor .cxx_destruct]
+OBJC_METH_VAR_NAME_17
+OBJC_SELECTOR_REFERENCES_18
+OBJC_METH_VAR_NAME_29
+OBJC_SELECTOR_REFERENCES_30
+OBJC_METH_VAR_NAME_43
+OBJC_IVAR_$_JKVKeyedEncoderVisitor._coder
+OBJC_IVAR_$_JKVKeyedEncoderVisitor._target
+OBJC_METH_VAR_TYPE_94
+OBJC_METH_VAR_TYPE_113
+OBJC_METH_VAR_NAME_114
+OBJC_METH_VAR_TYPE_121
+OBJC_METH_VAR_TYPE_125
+OBJC_CLASS_NAME_127
+OBJC_PROP_NAME_ATTR_128
+OBJC_PROP_NAME_ATTR_129
+OBJC_PROP_NAME_ATTR_130
+l_OBJC_CLASS_PROTOCOLS_$_JKVKeyedEncoderVisitor
+l_OBJC_METACLASS_RO_$_JKVKeyedEncoderVisitor
+OBJC_CLASS_NAME_134
+OBJC_METH_VAR_NAME_135
+OBJC_METH_VAR_TYPE_136
+OBJC_METH_VAR_NAME_137
+l_OBJC_$_INSTANCE_METHODS_JKVKeyedEncoderVisitor
+OBJC_METH_VAR_TYPE_141
+OBJC_METH_VAR_NAME_142
+OBJC_METH_VAR_TYPE_143
+l_OBJC_$_INSTANCE_VARIABLES_JKVKeyedEncoderVisitor
+l_OBJC_$_PROP_LIST_JKVKeyedEncoderVisitor
+l_OBJC_CLASS_RO_$_JKVKeyedEncoderVisitor
+-[JKVKeyedEncoderVisitor .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Private/JKVKeyedEncoderVisitor.m
+-[JKVKeyedEncoderVisitor setTarget:]
+-[JKVKeyedEncoderVisitor target]
+-[JKVKeyedEncoderVisitor setCoder:]
+-[JKVKeyedEncoderVisitor coder]
+-[JKVKeyedEncoderVisitor propertyWasUIOffset:]
+-[JKVKeyedEncoderVisitor propertyWasUIEdgeInsets:]
+-[JKVKeyedEncoderVisitor propertyWasCGAffineTransform:]
+-[JKVKeyedEncoderVisitor propertyWasCGRect:]
+-[JKVKeyedEncoderVisitor propertyWasCGSize:]
+-[JKVKeyedEncoderVisitor propertyWasCGPoint:]
+-[JKVKeyedEncoderVisitor propertyWasUnknownType:]
+-[JKVKeyedEncoderVisitor propertyWasObjCObject:]
+-[JKVKeyedEncoderVisitor propertyWasBool:]
+-[JKVKeyedEncoderVisitor propertyWasDouble:]
+-[JKVKeyedEncoderVisitor propertyWasFloat:]
+-[JKVKeyedEncoderVisitor propertyWasInt16:]
+-[JKVKeyedEncoderVisitor propertyWasInt32:]
+-[JKVKeyedEncoderVisitor propertyWasInt64:]
+-[JKVKeyedEncoderVisitor initWithCoder:forObject:]
++[JKVFactory factoryForClass:]
+-[JKVFactory init]
+-[JKVFactory initWithClass:]
+-[JKVFactory initWithClass:properties:]
+-[JKVFactory factoryWithProperties:]
+-[JKVFactory object]
+-[JKVFactory objectWithProperties:]
++[JKVFactory buildObject]
++[JKVFactory buildObjectWithProperties:]
+-[JKVFactory setProductClass:]
+-[JKVFactory productClass]
+-[JKVFactory properties]
+-[JKVFactory setProperties:]
+-[JKVFactory inspector]
+-[JKVFactory setInspector:]
+-[JKVFactory .cxx_destruct]
+.str3
+_unnamed_cfstring_4
+OBJC_CLASSLIST_REFERENCES_$_44
+OBJC_IVAR_$_JKVFactory._productClass
+OBJC_CLASSLIST_REFERENCES_$_57
+OBJC_IVAR_$_JKVFactory._properties
+OBJC_IVAR_$_JKVFactory._inspector
+OBJC_METH_VAR_TYPE_64
+OBJC_METH_VAR_TYPE_66
+l_OBJC_$_CLASS_METHODS_JKVFactory
+l_OBJC_METACLASS_RO_$_JKVFactory
+OBJC_CLASS_NAME_67
+OBJC_METH_VAR_TYPE_68
+OBJC_METH_VAR_TYPE_72
+l_OBJC_$_INSTANCE_METHODS_JKVFactory
+OBJC_METH_VAR_TYPE_75
+OBJC_METH_VAR_TYPE_77
+OBJC_METH_VAR_TYPE_79
+l_OBJC_$_INSTANCE_VARIABLES_JKVFactory
+OBJC_PROP_NAME_ATTR_80
+OBJC_PROP_NAME_ATTR_81
+OBJC_PROP_NAME_ATTR_82
+OBJC_PROP_NAME_ATTR_83
+OBJC_PROP_NAME_ATTR_84
+l_OBJC_$_PROP_LIST_JKVFactory
+l_OBJC_CLASS_RO_$_JKVFactory
+-[JKVFactory .cxx_destruct]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Public/JKVFactory.m
+-[JKVFactory setInspector:]
+-[JKVFactory inspector]
+-[JKVFactory setProperties:]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Public/JKVFactory.h
+-[JKVFactory properties]
+-[JKVFactory productClass]
+-[JKVFactory setProductClass:]
++[JKVFactory buildObjectWithProperties:]
++[JKVFactory buildObject]
+-[JKVFactory objectWithProperties:]
+-[JKVFactory object]
+-[JKVFactory factoryWithProperties:]
+-[JKVFactory initWithClass:properties:]
+-[JKVFactory initWithClass:]
+-[JKVFactory init]
++[JKVFactory factoryForClass:]
+JKVGenericSorter_block_invoke
++[JKVObjectPrinter swizzleContainers]
+__37+[JKVObjectPrinter swizzleContainers]_block_invoke
+__copy_helper_block_
+__destroy_helper_block_
+__37+[JKVObjectPrinter swizzleContainers]_block_invoke10
+__copy_helper_block_11
+__destroy_helper_block_12
+__37+[JKVObjectPrinter swizzleContainers]_block_invoke16
+__copy_helper_block_19
+__destroy_helper_block_20
+__37+[JKVObjectPrinter swizzleContainers]_block_invoke24
+__copy_helper_block_25
+__destroy_helper_block_26
+__37+[JKVObjectPrinter swizzleContainers]_block_invoke30
+__copy_helper_block_33
+__destroy_helper_block_34
+__37+[JKVObjectPrinter swizzleContainers]_block_invoke38
+__copy_helper_block_39
+__destroy_helper_block_40
++[JKVObjectPrinter unswizzleContainers]
+-[JKVObjectPrinter swizzleDescriptionOfClass:withBlock:]
+__56-[JKVObjectPrinter swizzleDescriptionOfClass:withBlock:]_block_invoke
+__copy_helper_block_51
+__destroy_helper_block_52
+-[JKVObjectPrinter unswizzleDescriptionOfClass:]
++[JKVObjectPrinter descriptionForObject:withProperties:]
++[JKVObjectPrinter sharedInstance]
+__34+[JKVObjectPrinter sharedInstance]_block_invoke
+__copy_helper_block_65
+__destroy_helper_block_66
+-[JKVObjectPrinter descriptionForObject:withProperties:]
+-[JKVObjectPrinter stringForObject:withProperties:]
+-[JKVObjectPrinter stringForDictionary:]
+-[JKVObjectPrinter stringForArray:]
+-[JKVObjectPrinter stringForSet:]
+-[JKVObjectPrinter stringByPaddingString:toLength:withString:]
+-[JKVObjectPrinter stringWithMultilineString:withLinePrefix:prefixFirstLine:]
+__block_descriptor_tmp
+__block_literal_global
+.str5
+__block_descriptor_tmp6
+OBJC_CLASSLIST_REFERENCES_$_9
+OBJC_CLASS_NAME_13
+__block_descriptor_tmp14
+OBJC_CLASS_NAME_21
+__block_descriptor_tmp22
+OBJC_CLASSLIST_REFERENCES_$_23
+OBJC_CLASS_NAME_27
+__block_descriptor_tmp28
+OBJC_CLASS_NAME_35
+__block_descriptor_tmp36
+OBJC_CLASSLIST_REFERENCES_$_37
+OBJC_CLASS_NAME_41
+__block_descriptor_tmp42
+.str53
+__block_descriptor_tmp54
+sharedInstance.JKVObjectPrinterInstance__
+sharedInstance.onceToken
+.str67
+OBJC_CLASS_NAME_68
+__block_descriptor_tmp69
+OBJC_CLASSLIST_REFERENCES_$_70
+.str71
+.str82
+_unnamed_cfstring_83
+.str84
+_unnamed_cfstring_85
+.str90
+_unnamed_cfstring_91
+.str92
+_unnamed_cfstring_93
+.str94
+_unnamed_cfstring_95
+OBJC_SELECTOR_REFERENCES_97
+OBJC_METH_VAR_NAME_98
+OBJC_SELECTOR_REFERENCES_99
+.str100
+_unnamed_cfstring_101
+OBJC_SELECTOR_REFERENCES_103
+OBJC_SELECTOR_REFERENCES_105
+OBJC_CLASSLIST_REFERENCES_$_106
+.str107
+_unnamed_cfstring_108
+OBJC_CLASSLIST_REFERENCES_$_109
+OBJC_CLASSLIST_REFERENCES_$_110
+.str111
+_unnamed_cfstring_112
+OBJC_SELECTOR_REFERENCES_114
+OBJC_SELECTOR_REFERENCES_116
+.str117
+_unnamed_cfstring_118
+.str119
+_unnamed_cfstring_120
+.str121
+_unnamed_cfstring_122
+OBJC_SELECTOR_REFERENCES_124
+.str125
+_unnamed_cfstring_126
+OBJC_SELECTOR_REFERENCES_128
+OBJC_CLASSLIST_REFERENCES_$_129
+OBJC_SELECTOR_REFERENCES_131
+OBJC_SELECTOR_REFERENCES_133
+.str134
+_unnamed_cfstring_135
+OBJC_METH_VAR_NAME_136
+OBJC_SELECTOR_REFERENCES_137
+OBJC_SELECTOR_REFERENCES_139
+OBJC_SELECTOR_REFERENCES_141
+OBJC_SELECTOR_REFERENCES_143
+OBJC_METH_VAR_NAME_144
+OBJC_SELECTOR_REFERENCES_145
+.str146
+_unnamed_cfstring_147
+.str148
+_unnamed_cfstring_149
+OBJC_METH_VAR_NAME_150
+OBJC_SELECTOR_REFERENCES_151
+.str152
+_unnamed_cfstring_153
+OBJC_METH_VAR_NAME_154
+OBJC_SELECTOR_REFERENCES_155
+.str156
+_unnamed_cfstring_157
+.str158
+_unnamed_cfstring_159
+.str160
+_unnamed_cfstring_161
+.str162
+_unnamed_cfstring_163
+OBJC_METH_VAR_NAME_164
+OBJC_SELECTOR_REFERENCES_165
+.str166
+_unnamed_cfstring_167
+OBJC_METH_VAR_NAME_168
+OBJC_SELECTOR_REFERENCES_169
+.str170
+_unnamed_cfstring_171
+OBJC_METH_VAR_NAME_172
+OBJC_SELECTOR_REFERENCES_173
+OBJC_CLASS_NAME_174
+OBJC_METH_VAR_NAME_175
+OBJC_METH_VAR_NAME_176
+OBJC_METH_VAR_TYPE_177
+OBJC_METH_VAR_TYPE_178
+l_OBJC_$_CLASS_METHODS_JKVObjectPrinter
+l_OBJC_METACLASS_RO_$_JKVObjectPrinter
+OBJC_METH_VAR_TYPE_179
+OBJC_METH_VAR_TYPE_180
+OBJC_METH_VAR_TYPE_181
+OBJC_METH_VAR_TYPE_182
+OBJC_METH_VAR_TYPE_183
+l_OBJC_$_INSTANCE_METHODS_JKVObjectPrinter
+l_OBJC_CLASS_RO_$_JKVObjectPrinter
+_dispatch_once
+/Applications/Xcode.app/Contents/Developer/Platforms/iPhoneOS.platform/Developer/SDKs/iPhoneOS9.2.sdk/usr/include/dispatch/once.h
+-[JKVObjectPrinter stringWithMultilineString:withLinePrefix:prefixFirstLine:]
+/Users/cc/Desktop/rabbitmq-objc-client-master-1/Carthage/Checkouts/JKVValue/JKVValue/Public/JKVObjectPrinter.m
+-[JKVObjectPrinter stringByPaddingString:toLength:withString:]
+-[JKVObjectPrinter stringForSet:]
+-[JKVObjectPrinter stringForArray:]
+-[JKVObjectPrinter stringForDictionary:]
+-[JKVObjectPrinter stringForObject:withProperties:]
+-[JKVObjectPrinter descriptionForObject:withProperties:]
++[JKVObjectPrinter sharedInstance]
++[JKVObjectPrinter descriptionForObject:withProperties:]
+-[JKVObjectPrinter unswizzleDescriptionOfClass:]
+-[JKVObjectPrinter swizzleDescriptionOfClass:withBlock:]
++[JKVObjectPrinter unswizzleContainers]
++[JKVObjectPrinter swizzleContainers]
+/Users/cc/Library/Developer/Xcode/DerivedData/JKVValue-flgjivlmnfzowmcqhxvxywfhjhfv/Build/Intermediates/JKVValue.build/Release-iphoneos/JKVValue-iOS.build/DerivedSources/JKVValue_vers.c
